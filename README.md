@@ -33,3 +33,16 @@ python3 Predict_new_text.py -f <text_file> -m <model>
 Main arguments
   -f F        Input txt file (*.txt)
   -m M        Input binary file of the model
+  
+### TEST CASE
+
+```bash
+python3 Code/Predict_new_text.py -f Code/test.txt -m lr
+```
+
+
+#### output
+<p align="center">
+  <img src="https://github.com/asmaa-a-abdelwahab/NLP-for-Arabic-Content-Classification/test-case-output.png"  width="90%" height="90%">
+</p>
+
