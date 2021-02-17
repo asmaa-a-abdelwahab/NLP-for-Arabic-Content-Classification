@@ -48,7 +48,7 @@ def main():
     #print(text)
     out = model.predict([text])
     #print(out)
-    print("\n\nThe class of this text is:\t{}\t({})".format(list(Category_lebels.keys())[list(Category_lebels.values()).index(out[0])], Category_en[out[0]]))
+    print("\n\nThe class of this text is:\t{}\t({})".format(list(Category_lebels.keys())[list(Category_lebels.values()).index(out[0])], Category_en[out[0]-1]))
     print('\n')
     
 if __name__ == '__main__':
