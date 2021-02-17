@@ -24,3 +24,12 @@ The following are the required arguments to predict the class of any new text:
 
 - `-f <text_file>`: input txt file.
 - `-m <model>`: input binary file of the model. binary files are available at the Artifacts directory.
+
+
+### Using VMK-mer
+```bash
+python3 Predict_new_text.py -f <text_file> -m <model>
+
+Main arguments
+  -f F        Input txt file (*.txt)
+  -m M        Input binary file of the model
