@@ -42,6 +42,6 @@ python3 Code/Predict_new_text.py -f Code/test.txt -m lr
 
 #### output
 <p align="center">
-  <img src=""  width="96%" height="40%">
+  <img src="https://github.com/asmaa-a-abdelwahab/NLP-for-Arabic-Content-Classification/blob/main/test-case-output.png"  width="96%" height="40%">
 </p>
 
