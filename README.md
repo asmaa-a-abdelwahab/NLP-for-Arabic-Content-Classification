@@ -17,7 +17,7 @@ Implemented while being a Technology Trainee at the ESCWA Technology Center
 
 
 ## Manual
-This tools was built with Python and requires the installation of the 
+To install the required libraries run - `conda install --file requirements.txt`
 
 ### Main arguments
 The following are the required arguments to predict the class of any new text:
