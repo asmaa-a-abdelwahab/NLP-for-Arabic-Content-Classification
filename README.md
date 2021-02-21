@@ -1,4 +1,5 @@
-# NLP for Arabic Content Classification
+# Supervised Learning for Arabic Text Classification to Organize the Content of UN Platforms
+
 Implemented while being a Technology Trainee at the ESCWA Technology Center
 
 #### The main goal of this project is to provide a model that will be able to classify News and Articles for two UN projects, MSME micro, small, medium enterprises and entrepreneurship AND DIAR Driving Innovation in the Arab Region (Science, Technology & innovation). 
